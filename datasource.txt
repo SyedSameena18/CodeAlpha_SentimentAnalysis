@@ -10,4 +10,5 @@ Dataset Link:
 
 https://www.kaggle.com/datasets/juhibhojani/airline-reviews?select=Airline_review.csv
 
---This dataset contains airline passenger reviews collected from AirlineQuality.com. It includes airline names, review titles, review text, overall ratings, travel details, and passenger recommendations, making it suitable for sentiment analysis and customer feedback analytics.
+--This dataset contains airline passenger reviews collected from AirlineQuality.com.
+--It includes airline names, review titles, review text, overall ratings, travel details, and passenger recommendations, making it suitable for sentiment analysis and customer feedback analytics.
